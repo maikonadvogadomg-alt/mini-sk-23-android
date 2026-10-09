@@ -1,0 +1,2 @@
+rootProject.name = 'MiniSK23'
+include ':app'
